@@ -49,7 +49,8 @@ A classic Superstore dataset containing U.S. sales transactions from 2011 to 201
 ---
 
 ## 📷 Screenshots
-> *(Optional: Add screenshots of your dashboards in the `images/` folder and embed them here)*
+
+<img width="1575" height="768" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/6ca40452-17c6-4928-bef0-6bc680c32835" />
 
 ---
 
