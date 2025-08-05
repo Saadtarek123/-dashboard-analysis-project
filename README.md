@@ -65,5 +65,4 @@ A classic Superstore dataset containing U.S. sales transactions from 2011 to 201
 
 ---
 
-## 📂 Folder Structure
 
